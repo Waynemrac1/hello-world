@@ -1,2 +1,2 @@
-# hello-world
-want to build and app that will work on android phones to retrieve call logs, messages, location, silently, That can be in stalled with a text message photo. secretly.
+m# hello-world
+want to build and app that will work on android phones to retrieve call logs, messages, location, silently, That can be in stalled with a text message photo. secretly.My name is Wayne and I am self-employed, have been since 1989. I'm learning how to hopefully be a good programmer. MY email address is waynevancleave@gmail.comm, I would love to have someone to talk to every once in a while, just to ask some basic questions. Thanks, and have a blessed day.
